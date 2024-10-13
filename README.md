@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @RaionClaire!
+# 👋 Hello, I'm Adinda Salsabila!
 
 - 👀 **Interests:** Artificial Intelligence, Machine Learning, and creative coding projects.
 - 🌱 **Currently Learning:** TensorFlow and neural networks.
