@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-<img src="https://socialify.git.ci/raionclaire/raionclaire/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="raionclaire" width="640" height="320" />
+<img src="https://socialify.git.ci/raionclaire/raionclaire/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="raionclaire" width="640" height="320" />
 </p>
 
 <p align="center">
