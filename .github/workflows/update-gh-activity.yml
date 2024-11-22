@@ -1,4 +1,4 @@
-name: update-gh-activity
+name: Update GitHub Activity
 
 on:
   schedule:
@@ -10,6 +10,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@v0.9.1
