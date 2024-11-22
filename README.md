@@ -1,3 +1,32 @@
+[![Actions Status](https://github.com/raionclaire/raionclaire/workflows/wakatime-stats/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
+[![Actions Status](https://github.com/raionclaire/raionclaire/workflows/update-gh-activity/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
+[![](https://visitcount.itsvg.in/api?id=RaionClaire&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+<img src="https://socialify.git.ci/raionclaire/raionclaire/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="raionclaire" width="640" height="320" />
+</p>
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/adindasalsabila1">
+  <img alt="raionclaire's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
+  <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=raionclaire&theme=onedark&column=-1" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raionclaire&theme=github-dark-dimmed&custom_title=raionclaire%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Adinda Salsabila
 
 - **Location:** Lampung, Indonesia
