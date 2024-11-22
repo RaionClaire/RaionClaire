@@ -57,53 +57,15 @@ hobbies: ["Badminton", "Reading Books", "Casual Gaming", "Coding"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C832%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
+```txt
+From: 22 November 2024 - To: 22 November 2024
 
-**🐱 My GitHub Data** 
+Total Time: 0 secs
 
-> 📦 335.0 kB Used in GitHub's Storage 
- > 
-> 🏆 965 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 67 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                449 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌆 Daytime                2953 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌃 Evening                3483 commits        ███████████░░░░░░░░░░░░░░   43.65 % 
-🌙 Night                  1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-C++                      2 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.96 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-XML                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-C                        19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-
-🐱‍💻 Projects: 
-swarm_mission            2 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.00 % 
-swamp_netbox_bridge      1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-arrc_interfaces          1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-arrc_si_devel            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-```
-
-
- Last Updated on 22/11/2024 12:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
