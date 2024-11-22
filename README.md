@@ -52,6 +52,15 @@ hobbies: ["Badminton", "Reading Books", "Casual Gaming", "Coding"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 November 2024 - To: 22 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
