@@ -15,6 +15,9 @@
 <a href="https://www.linkedin.com/in/adindasalsabila1">
   <img alt="raionclaire's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
+  <a href="https://instagram.com/chacasta_staria">
+  <img alt="RaionClaire's Instagram" width="50px" src="https://github.com/RaionClaire/RaionClaire/blob/main/images/Instagram_icon.png" />
+</a>
 <a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
   <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
@@ -38,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vm7x6fukgyq4q4ufhsoodq6wqu&cover_image=true&theme=default&show_offline=false&background_color=ff9ef7&interchange=false&bar_color=3bfe34">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vm7x6fukgyq4q4ufhsoodq6wqu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=3bfe34">
 </p>
 
 <p align="center">
