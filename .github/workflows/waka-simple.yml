@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # Trigger manually
   schedule:
-    - cron: "0 0 * * *" # Run daily at 12AM UTC
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -19,9 +19,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: RaionClaire/RaionClaire
           SECTION_NAME: "waka-simple"
+          COMMIT_BY_ME: true
+          COMMIT_USERNAME: RaionClaire
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
+          SHOW_DAYS_OF_WEEK: true
+          
