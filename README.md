@@ -30,7 +30,7 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raionclaire&theme=github-dark-dimmed&custom_title=raionclaire%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Adinda Salsabila
+<!-- ## Adinda Salsabila
 
 - **Location:** Lampung, Indonesia
 - **Education:** Undergraduate in Computer Science, Lampung University, Indonesia
@@ -38,7 +38,7 @@
 - **Currently Learning:** Tensorflow, Kotlin
 - **Will Learn:** Blockchain
 - **Hobbies:** Badminton, Reading Books, Casual Gaming, Coding
-
+-->
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vm7x6fukgyq4q4ufhsoodq6wqu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=3bfe34">
