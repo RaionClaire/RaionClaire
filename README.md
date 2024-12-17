@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/raionclaire/raionclaire/workflows/wakatime-stats/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
-[![Actions Status](https://github.com/raionclaire/raionclaire/workflows/update-gh-activity/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
+[![Actions Status](https://github.com/RaionClaire/RaionClaire/workflows/wakatime-stats/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
+[![Actions Status](https://github.com/RaionClaire/RaionClaire/workflows/update-gh-activity/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
 [![](https://visitcount.itsvg.in/api?id=RaionClaire&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- <p align="center">
