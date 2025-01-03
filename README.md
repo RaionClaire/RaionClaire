@@ -1,6 +1,9 @@
-[![Actions Status](https://github.com/RaionClaire/RaionClaire/workflows/wakatime-stats/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
-[![Actions Status](https://github.com/RaionClaire/RaionClaire/workflows/update-gh-activity/badge.svg)](https://github.com/raionclaire/raionclaire/actions)
+[![Actions Status](https://github.com/RaionClaire/RaionClaire/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/RaionClaire/RaionClaire/actions)
+[![Action Status](https://github.com/RaionClaire/RaionClaire/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/RaionClaire/RaionClaire/actions)
 [![](https://visitcount.itsvg.in/api?id=RaionClaire&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
