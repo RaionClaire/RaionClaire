@@ -78,5 +78,5 @@ TypeScript        5 hrs 8 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
