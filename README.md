@@ -26,10 +26,10 @@
 </a>
 <br>
 </p>
-
+<!--
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=raionclaire&theme=onedark&column=-1" />
-</p>
+</p>-->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raionclaire&theme=github-dark-dimmed&custom_title=raionclaire%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
