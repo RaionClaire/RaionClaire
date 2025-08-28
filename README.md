@@ -37,8 +37,8 @@
 
 - **Location:** Lampung, Indonesia
 - **Education:** Undergraduate in Computer Science, Lampung University, Indonesia
-- **Fields of Interest:** Machine Learning, Computer Vision, Web Development, Blockchain
-- **Currently Learning:** Tensorflow, Kotlin
+- **Fields of Interest:** Machine Learning, Computer Vision, Web Development, Mobile Development
+- **Currently Learning:** Tensorflow, Kotlin, Go
 - **Will Learn:** Blockchain
 - **Hobbies:** Badminton, Reading Books, Casual Gaming, Coding
 -->
