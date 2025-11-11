@@ -2,9 +2,6 @@
 [![Action Status](https://github.com/RaionClaire/RaionClaire/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/RaionClaire/RaionClaire/actions)
 [![](https://visitcount.itsvg.in/api?id=RaionClaire&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-
-
-
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
@@ -14,21 +11,9 @@
 </p>
 
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/adindasalsabila1">
-  <img alt="raionclaire's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-  <a href="https://instagram.com/chacasta_staria">
-  <img alt="RaionClaire's Instagram" width="50px" src="https://github.com/RaionClaire/RaionClaire/blob/main/images/Instagram_icon.png" />
-</a>
-<a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
-  <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<a href="https://www.goodreads.com/user/show/180493559-raion-claire">
-  <img alt="RaionClaire's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
-</a>
-<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raionclaire&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
+
 <!--
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=raionclaire&theme=onedark&column=-1" />
@@ -46,9 +31,9 @@
 - **Hobbies:** Badminton, Reading Books, Casual Gaming, Coding
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vm7x6fukgyq4q4ufhsoodq6wqu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=3bfe34">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vm7x6fukgyq4q4ufhsoodq6wqu&count=5">
@@ -75,11 +60,24 @@ Bash                       8 hrs 40 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
 
-
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/adindasalsabila1">
+  <img alt="raionclaire's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+  <a href="https://instagram.com/chacasta_staria">
+  <img alt="RaionClaire's Instagram" width="50px" src="https://github.com/RaionClaire/RaionClaire/blob/main/images/Instagram_icon.png" />
+</a>
+<a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
+  <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<a href="https://www.goodreads.com/user/show/180493559-raion-claire">
+  <img alt="RaionClaire's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
+</a>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
