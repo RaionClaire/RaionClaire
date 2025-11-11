@@ -24,6 +24,9 @@
 <a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
   <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
+<a href="https://www.goodreads.com/user/show/180493559-raion-claire">
+  <img alt="RaionClaire's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
+</a>
 <br>
 </p>
 <!--
