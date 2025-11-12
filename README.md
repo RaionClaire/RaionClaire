@@ -41,6 +41,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/RaionClaire/EBusiness_BuatinDongCompany/issues/1) in [RaionClaire/EBusiness_BuatinDongCompany](https://github.com/RaionClaire/EBusiness_BuatinDongCompany)
+2. ❗ Opened issue [#1](https://github.com/RaionClaire/EBusiness_BuatinDongCompany/issues/1) in [RaionClaire/EBusiness_BuatinDongCompany](https://github.com/RaionClaire/EBusiness_BuatinDongCompany)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
