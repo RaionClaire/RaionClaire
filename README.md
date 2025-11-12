@@ -35,9 +35,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vm7x6fukgyq4q4ufhsoodq6wqu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=3bfe34">
 </p> -->
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vm7x6fukgyq4q4ufhsoodq6wqu&count=5">
-</p>
+
 
 
 **:zap: Recent Activity:**
@@ -78,6 +76,126 @@ Python                     8 hrs 43 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img alt="RaionClaire's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
 </a>
 </p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vm7x6fukgyq4q4ufhsoodq6wqu&count=5">
+</p>
+
+<h3 align="center"><b>Full-Stack Web Ecosystem</b></h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Language</th>
+      <th align="center">Backend</th>
+      <th align="center">Frontend</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+      <td><img src="https://img.shields.io/badge/Sanctum-E74430?style=for-the-badge&logo=laravel&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFD62E"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Filament-%23EF4444.svg?style=for-the-badge&logo=laravel&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h3 align="center"><b>Databases & Hosting</b></h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Primary Database</th>
+      <th align="center">Analytics / Cache</th>
+      <th align="center">Hosting / Deployment</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
+      <td><img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h3 align="center"><b>AI / Python Ecosystem</b></h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Language</th>
+      <th align="center">Framework / Library</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+      <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/scikit--learn-%2300FF00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h3 align="center"><b>Development & Tools</b></h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Version Control</th>
+      <th align="center">Design & Docs</th>
+      <th align="center">Utilities</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
