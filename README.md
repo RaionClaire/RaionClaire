@@ -14,11 +14,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raionclaire&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
-<!--
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=raionclaire&theme=onedark&column=-1" />
-</p>-->
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raionclaire&theme=github-dark-dimmed&custom_title=raionclaire%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## Adinda Salsabila
