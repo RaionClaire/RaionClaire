@@ -1,20 +1,20 @@
-[![Actions Status](https://github.com/RaionClaire/RaionClaire/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/RaionClaire/RaionClaire/actions)
-[![Action Status](https://github.com/RaionClaire/RaionClaire/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/RaionClaire/RaionClaire/actions)
-[![](https://visitcount.itsvg.in/api?id=RaionClaire&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![Actions Status](https://github.com/XiaDRaion/XiaDRaion/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/XiaDRaion/XiaDRaion/actions)
+[![Action Status](https://github.com/XiaDRaion/XiaDRaion/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/XiaDRaion/XiaDRaion/actions)
+[![](https://visitcount.itsvg.in/api?id=XiaDRaion&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
 
 <p align="center">
-<img src="https://socialify.git.ci/raionclaire/raionclaire/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="raionclaire" width="640" height="320" />
+<img src="https://socialify.git.ci/XiaDRaion/XiaDRaion/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="XiaDRaion" width="640" height="320" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=raionclaire&theme=tokyonight" onerror="this.style.display='none'" />
+<img src="https://streak-stats.demolab.com?user=XiaDRaion&theme=tokyonight" onerror="this.style.display='none'" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raionclaire&theme=github-dark-dimmed&custom_title=raionclaire%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaDRaion&theme=github-dark-dimmed&custom_title=XiaDRaion%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## Adinda Salsabila
 
@@ -36,8 +36,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/RaionClaire/EBusiness_BuatinDongCompany/issues/1) in [RaionClaire/EBusiness_BuatinDongCompany](https://github.com/RaionClaire/EBusiness_BuatinDongCompany)
-2. ❗ Opened issue [#1](https://github.com/RaionClaire/EBusiness_BuatinDongCompany/issues/1) in [RaionClaire/EBusiness_BuatinDongCompany](https://github.com/RaionClaire/EBusiness_BuatinDongCompany)
+1. 🔒 Closed issue [#1](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany/issues/1) in [XiaDRaion/EBusiness_BuatinDongCompany](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany)
+2. ❗ Opened issue [#1](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany/issues/1) in [XiaDRaion/EBusiness_BuatinDongCompany](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
@@ -61,16 +61,16 @@ Bash                       10 hrs 48 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/adindasalsabila1">
-  <img alt="raionclaire's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="XiaDRaion's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
   <!-- <a href="https://instagram.com/chacasta_staria">
-  <img alt="RaionClaire's Instagram" width="50px" src="https://github.com/RaionClaire/RaionClaire/blob/main/images/Instagram_icon.png" />
+  <img alt="XiaDRaion's Instagram" width="50px" src="https://github.com/XiaDRaion/XiaDRaion/blob/main/images/Instagram_icon.png" />
 </a> -->
 <a href="https://open.spotify.com/user/31vm7x6fukgyq4q4ufhsoodq6wqu?si=3a184f409b4d477f">
-  <img alt="RaionClaire's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+  <img alt="XiaDRaion's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <a href="https://www.goodreads.com/user/show/180493559-raion-claire">
-  <img alt="RaionClaire's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
+  <img alt="XiaDRaion's Goodreads" width="50px" src="https://i.postimg.cc/bvSGD4v9/goodreads.png" />
 </a>
 </p>
 
